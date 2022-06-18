@@ -81,6 +81,7 @@ const style = StyleSheet.create({
         color: colorFontGithubDARK,
     },
     description:{
+        textAlign: 'justify',
         fontWeight: 'bold',
         fontSize: 14,
     },
