@@ -40,11 +40,172 @@ const App = () =>{
                 </Text>
                 <Pressable onPress={handlePressGoToGithub}>
                     <View style={style.button}>
-                        <Text style={[style.defaultText, style.textButton]}>Open in Github</Text>
+                    <Text style={[style.defaultText, style.textButton]}>Open in Github</Text>
+
                     </View>
                 </Pressable>
             </View>
 
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.designHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
+            <View style={style.contentHistorico}>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+                <View style={style.viewHistorico}></View>
+            </View>
           
     </SafeAreaView>
 };
@@ -94,6 +255,23 @@ const style = StyleSheet.create({
     textButton:{
         fontWeight: 'bold',
         fontSize: 16,
+    },
+    viewHistorico:{
+        height: 10,
+        width: 10,
+        backgroundColor:'#6f42c1',
+        margin: 3,
+    },
+    contentHistorico:{
+        justifyContent: 'center',
+        alignItems: 'center',
+        flexDirection: 'row',
+    },
+    designHistorico:{
+        height: 10,
+        width: 10,
+        backgroundColor:'white',
+        margin: 3,
     },
    
 });
